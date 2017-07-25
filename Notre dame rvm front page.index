@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.cities {
+    background-color: black;
+    color: white;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+div.container {
+    width: 100%;
+    border: 1px solid gray; background-color:#096;
+}
+
+header, footer {
+    padding: 1em;
+    color: white;
+    background-color:#060;
+    clear: left;
+    text-align: center;
+}
+
+nav {
+    float: left;
+    max-width: 160px;
+    margin: 0;
+    padding: 1em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+	background-image:url(7bee29c4bae23716cbda22ec9358aee5.jpg)
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+article {
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 1em;
+    overflow: hidden;
+	background-image:url(7bee29c4bae23716cbda22ec9358aee5.jpg)
+	
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+<header>
+   <h1>Notre Dame-RVM College of Cotabato</h1>
+   <h3>74 sinsuat Avenue, Cotabato City</h3>
+  </header>
+<article>
+  <div class="header">
+  <h1 align="center">A Center for Character Formation</h1>
+<h1 align="center"> through Quality Education </h1>
+  <h2>SENIOR HIGH SCHOOL READY</h2>
+  <h3>PAASCU Accredited Level ||</h3>
+  <p>Basic Education Department</p>
+  <h2>TESDA Training and Assesment Center</h2>
+  <p>Technical Education Courses</p>
+  <p>CHED Recognized Performing School</p>
+  <p>Information Technology</p>
+  <p>Hotel and Restaurant Management</p>
+  <p>Business Education</p>
+<p>Teacher Education</p></article>
+
+<div class="container">
+  <header>
+    <p>For Inquiry:</p>
+    <p>Call Telephone Nos.(064) 421-28-2845; 421-6238</p>
+  <p>Email Address: ndrvmcc_cotcity@yahoo.com</p></header>
+
+</div>
+
+</body>
+</html>
+</p>
+</article>
+
+<footer>Copyright &copy; W3Schools.com</footer>
+
+</div>
+
+</body>
+</html>
